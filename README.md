@@ -16,7 +16,7 @@
 
 ### Connect with Me :
 
-[![LinkedIn](https://img.shields.io/badge/-Osama%20ElSaqry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osama-shehta-saqr/)
+[![LinkedIn](https://img.shields.io/badge/-Osama%20Saqr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osama-shehta-saqr/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osama.ibn.saqr@gmail.com)
 
 
